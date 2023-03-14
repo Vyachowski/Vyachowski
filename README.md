@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Slava Haikin or @vyachowski on any popular app or site
+- 👋 Hi, I’m Slava Haikin or @vyachowski on any popular app or social network
 - 👀 I’m interested in web-development
 - 🌱 I’m currently learning JS and ReactJS
 - 💞️ I’m looking to collaborate on any interesting Open Source Project
