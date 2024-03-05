@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I’m Slava Haikin or @vyachowski
-<h3 align="center">Frontend Web developer</h3>
+<h3 align="center">Frontend developer</h3>
 <br />
 
 - I’m currently working on **a web game "Who wants to become a developer?"**
