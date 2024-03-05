@@ -6,8 +6,8 @@
 
 - I’m looking to **land my first high-tech job** or get an internship
 - Or collaborate on **any open source project**
-- My education: **Hexlet college – Software Developer**
-- Yo can reach me on **[LinkedIn](https://www.linkedin.com/in/vyachowski/)**
+- Education: **Hexlet college – Software Developer**
+- You can reach me on **[LinkedIn](https://www.linkedin.com/in/vyachowski/)**
 
 <br />
 <h3 align="left">My tech stack:</h3>
