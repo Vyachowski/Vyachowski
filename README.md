@@ -5,7 +5,7 @@
 - I’m currently working on **a web game "Who wants to become a developer?"**
 
 - I’m looking to **land my first high-tech job** or get an internship
-- Or collaborate in Thmoon.ru
+- Or collaborate in **[Thmoon.ru](https://thmoon.ru/)**
 - Education: **Hexlet college – Software Developer**
 - You can reach me on **[LinkedIn](https://www.linkedin.com/in/vyachowski/)**
 
